@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Annie Wernerfelt"
-  avatar           : "/Users/anniewernerfelt/Downloads/awernerfelt.github.io/images/profilepic.jpg"
+  avatar           : "images/profilepic.jpg"
   bio              : "CS Student at Haverford College"
   location         : Haverford, PA
   employer         :
